@@ -5,7 +5,7 @@ const namedFunction = () => {};
 const returnsANamedFunction = () => {
   return namedFunction;
 };
-const anonymousFunction = () => {};
+//const anonymousFunction = () => {};
 const returnsAnAnonymousFunction = () => {
   return () => {};
 };
